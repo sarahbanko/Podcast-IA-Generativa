@@ -2,13 +2,13 @@
 Desafio do Bootcamp: Fundamentos de IA generativa, que propõe a criação de um curto episódio de podcast utilizando IA Generativa
 ---
 
-💻  ## **Tecnologias utilizadas**
+## 💻 **Tecnologias utilizadas**
  - [ChatGPT](https://chatgpt.com/?locale=pt-BR)
  - [ElevenLabs](https://elevenlabs.io/pt)
 
 ---
 
-⚙️ ## **Etapas**
+## ⚙️ **Etapas**
 - Criação do roteiro com ChatGpt
 - Criação de imagem com o ChatGpt
 - Audio gerado utilizando ElevenLabs
