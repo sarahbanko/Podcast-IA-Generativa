@@ -14,7 +14,7 @@ Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tec
 [FINALIZAÇÃO] 
 
 {REGRAS} 
-- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan 
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan. Lembre-se que é o primeiro episódio do Podcast
 - no bloco [CURIOSIDADE 1] substitua por uma curiosidade de CSS 
 - no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends 
 - no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou a Sarah e esse foi o HeyTech dessa semana' 
